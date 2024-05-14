@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <b>MCModdingAPI</b>
   <br>
 </h1>
