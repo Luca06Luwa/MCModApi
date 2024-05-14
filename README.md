@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center"><b>MCModdingAPI</b> is a compilation of the world's most popular mod loaders for Minecraft into one central system, allowing mods on the Forge and Fabric api's to work in unison with eachother.</h4>
+<h4 align="center"><b>MCModdingAPI</b> is a compilation of the world's most popular mod loaders for Minecraft into one central system, allowing mods on the Forge, Neoforged and Fabric api's to work in unison with eachother.</h4>
 
 <p align="center">
   <a href="#status">Status</a> |
@@ -19,6 +19,7 @@ Stuff that needs to be implemented:
 - [ ] create test mod
 - [ ] implement fabic api and fabric mod libraries
 - [ ] implement forge api and forge mod libraries
+- [ ] implement neoforged api and neoforged mod libraries
 - [ ] ???
 
 **Note**: I will try to update this README whenever I can. When something changes, I will add that here.
