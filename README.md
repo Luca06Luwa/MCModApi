@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center"><b>MCModdingAPI</b> is a compilation of the world's most popular mod loaders for Minecraft into one central system, allowing mods on the Forge, Neoforged and Fabric api's to work in unison with eachother.</h4>
+<h4 align="center"><b>MCModdingAPI</b> is a compilation of the world's most popular mod loaders for Minecraft into one central system, allowing mods on the Forge, Neoforged and Fabric api's to work in unison with eachother.<br><br>This project is still in it's VERY early stages and hasn't even been theorised yet. I'll probably make some blog posts explaining the progress though. ^w^</h4>
 
 <p align="center">
   <a href="#status">Status</a> |
