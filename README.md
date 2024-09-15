@@ -18,7 +18,6 @@ Stuff that needs to be implemented:
 - [ ] Get basic api calling to minecraft working
 - [ ] create test mod
 - [ ] implement fabic api and fabric mod libraries
-- [ ] implement forge api and forge mod libraries
 - [ ] implement neoforged api and neoforged mod libraries
 - [ ] ???
 
